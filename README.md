@@ -12,3 +12,6 @@ A Chrome-backed desktop application for Android Messages, similar to iMessage.
 3. Drag-and-drop the _.crx_ file onto the browser window.  This will prompt you to install the application.  Once installed, the application will show up in the Chrome App Launcher.
 4. Right-click the app in the Chrome App Launcher, and select Create Shortcut.  This shortcut can be added to the _Applications_ folder on macOS for easy Spotlight access, or anywhere on Windows.
 5. Launch the application, and follow the instructions to pair it with your phone.
+
+## Misc
+Kudos to Applicationize (https://github.com/eladnava/applicationize) for providing the baseline for this.
